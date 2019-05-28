@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test code",
+  "main": "index.js",
+  "dependencies": {
+    "angular-protractor-cucumber": "^0.1.28",
+    "jasmine": "^3.4.0",
+    "protractor": "^6.0.0",
+    "protractor-accessibility-plugin": "^0.3.0",
+    "protractor-angular-screenshot-reporter": "^0.1.2",
+    "protractor-angulardatepicker": "^1.0.3",
+    "protractor-axe-report-plugin": "^1.1.0",
+    "protractor-jasmine-cucumber": "^0.2.2",
+    "protractor-jasmine2-reporter": "^1.1.0",
+    "tern": "^0.23.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shariar",
+  "license": "ISC"
+}
