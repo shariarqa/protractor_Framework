@@ -1,4 +1,7 @@
 .idea
 .metadata
 .project
-.tern-porject
+.tern-project
+.git
+node_modules
+protractor_framework
