@@ -15,6 +15,7 @@
     "protractor-angulardatepicker": "^1.0.3",
     "protractor-axe-report-plugin": "^1.1.0",
     "protractor-jasmine-cucumber": "^0.2.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
     "protractor-jasmine2-reporter": "^1.1.0",
     "tern": "^0.23.0"
   },
