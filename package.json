@@ -4,7 +4,7 @@
   "description": "test code",
   "main": "index.js",
   "dependencies": {
-    "angular": "^1.7.8",
+    "angular": "^1.7.9",
     "angular-protractor-cucumber": "^0.1.28",
     "chai": "^4.2.0",
     "jasmine": "^3.4.0",
