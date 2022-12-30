@@ -8,7 +8,7 @@
     "angular-protractor-cucumber": "^0.1.28",
     "chai": "^4.2.0",
     "jasmine": "^3.4.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "protractor": "^6.0.0",
     "protractor-accessibility-plugin": "^0.3.0",
     "protractor-angular-screenshot-reporter": "^0.1.2",
